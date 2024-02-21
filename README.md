@@ -4,7 +4,6 @@ This repository contains all of the source code used in the course called HTML, 
 
 
 
-
 # Assignments :
 SS
 * Module-1 - Quiz 
