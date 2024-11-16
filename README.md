@@ -1,21 +1,34 @@
-# Coursera-HTML-CSS-and-Javascript-for-Web-Developers
+# Coursera HTML, CSS, and JavaScript for Web Developers
 
-This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
+## About
+Welcome to the Coursera HTML, CSS, and JavaScript for Web Developers repository! This repository contains all the source code and assignments completed as part of the Coursera course. It showcases projects and exercises designed to strengthen skills in building modern web applications with HTML, CSS, and JavaScript.
 
+## Table of Contents
+- [Overview](#overview)
+- [Assignments](#assignments)
+- [Outputs](#outputs)
+- [Technologies Used](#technologies-used)
+- [License](#license)
 
+## Overview
+This repository includes code from the Coursera course assignments, demonstrating key web development concepts.
 
-# Assignments :
-SS
-* Module-1 - Quiz 
-* Module-2 - Coding
-* Module-3 - Coding
-* Module-4 - Coding
-* Module-5 - Coding
+## Assignments
+- **Module-1**: Quiz
+- **Module-2 to Module-5**: Coding assignments focusing on core web development techniques.
 
+## Outputs
+Live demo links for the outputs:
+- [Module-2 Output](https://siddartha19.github.io/module2-solution)
+- [Module-3 Output](https://siddartha19.github.io/module3-solution)
+- [Module-4 Output](https://siddartha19.github.io/module4-solution)
+- [Module-5 Output](https://siddartha19.github.io/module5-solution)
 
-# Outputs :
+## Technologies Used
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-* [Module-2](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
-* [Module-3](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
-* [Module-4](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-4/index.html)
-* [Module-5](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
+## License
+This project is for educational purposes and follows the Coursera course guidelines.
+
